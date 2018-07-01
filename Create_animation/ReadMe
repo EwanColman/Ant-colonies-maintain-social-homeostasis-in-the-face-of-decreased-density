@@ -1,0 +1,21 @@
+Data
+
+1. contents of ../Boxed/Colony_1_low_density_boxed/
+
+The location data used for the animation
+
+2. Trophallaxis data
+
+3. Node_attributes_colony_1.csv' (for example)
+
+Output of "Analysis/create_spreadsheet_of_attributes.py"
+
+Code
+
+get_trophallaxis_locations.py
+
+Creates a pickled list of trophallaxis locations from "trophallaxis_data"
+
+animate_colours.py
+
+
